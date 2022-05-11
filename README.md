@@ -9,7 +9,8 @@ This involved event handling and a tricky system of reading/writing bits from ou
 
 Backups became a huge problem for us as our service techs aren't the most tech savy individuals. No worries, I created a "Backup Utility" that reaches back into the machines
 PLC and pulls the correct backup files. This program also zips up important folders via robocopy and creates a zip file easily transferable via email. I developed the entire
-app myself(aside from the JetControl.cs class) This class is something I did help design during our initial phase of UI development. 
+app myself(aside from the JetControl.cs class) This class is something I did help design during our initial phase of UI development. Please take a look at the .zip
+on my profile to see code.
 
 I got a small taste of development over the past 2 years. Now that we are done with the heavy development, I am starting to get pulled back into my old duties. This is why
 I have started looking for a new job.
