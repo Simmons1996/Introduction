@@ -1,5 +1,5 @@
 Hello,
-My name is Nicholas Simmons. I am a sophomore at KSU online majoring in application development.
+My name is Nicholas Simmons. I am a sophomore at KSU online majoring in application development. I know most companies would rather hire someone who has already graduated. I can assure you that not having my degree should not deter you from taking me into consideration. I currently hold a 3.79 GPA and have been able to handle working full-time and full-time college without it interrupting my ability to bring value to a company. 
 
 I have worked at my current position for 2 years. I was apart of our development team that implemeneted a new UI on our machinery. This is a WPF that interacts with a 
 mssms SQL server to read/write records into 3 databases. The main backend lanugage is C#, which I have become pretty profiecient at. 
